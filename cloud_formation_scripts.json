@@ -132,6 +132,7 @@
                             "Principal": {
                                 "Service": [
                                     "lambda.amazonaws.com"
+                                   
                                 ]
                             }
                         }
